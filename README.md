@@ -7,6 +7,11 @@ Sample project to show how draw image with B&W and Sepia filters on Android with
 
 ![Sample image][2]
 
+Binary
+===========
+There is release made to provide binary to see how code works:
+https://github.com/StevenRudenko/ColorMartix/releases/tag/v1.0
+
 
 Developed By
 ============
